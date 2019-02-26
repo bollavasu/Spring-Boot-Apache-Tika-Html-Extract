@@ -1,0 +1,9 @@
+
+https://www.tutorialspoint.com/tika/tika_extracting_html_document.htm
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/
+
